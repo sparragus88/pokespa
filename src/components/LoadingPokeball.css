@@ -1,0 +1,17 @@
+.wrapper-loading{
+    background-color:#181b1d;
+    height:100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.wrapper-loading i{
+    width: 50%;
+    max-width: 50%;
+    height: 50%;
+    max-height: 50%;
+    color:#fff;
+    margin:25% 25%;
+    transition: all 0.2s linear;
+}

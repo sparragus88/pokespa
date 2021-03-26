@@ -1,0 +1,30 @@
+.wrapper-capture-success{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.wrapper-capture-success h1{
+    text-align:center;
+    color: #10d63b;
+    text-shadow: 1px 1px 4px #232323;
+}
+
+.wrapper-capture-failed{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.wrapper-capture-failed h1{
+    text-align:center;
+    color: #eb533f;
+    text-shadow: 1px 1px 4px #232323;
+}
+
+.wrapper-capture-success #btn-save-success,
+.wrapper-capture-failed #btn-back{
+    text-align:center;
+    width:40% !important;
+    margin:10px auto;
+}
