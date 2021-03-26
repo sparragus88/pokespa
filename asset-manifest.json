@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/sparragus88/pokespa/static/css/main.3ab16f3d.chunk.css",
+    "main.js": "/sparragus88/pokespa/static/js/main.2745d263.chunk.js",
+    "main.js.map": "/sparragus88/pokespa/static/js/main.2745d263.chunk.js.map",
+    "runtime-main.js": "/sparragus88/pokespa/static/js/runtime-main.b7c6ed78.js",
+    "runtime-main.js.map": "/sparragus88/pokespa/static/js/runtime-main.b7c6ed78.js.map",
+    "static/js/2.feada520.chunk.js": "/sparragus88/pokespa/static/js/2.feada520.chunk.js",
+    "static/js/2.feada520.chunk.js.map": "/sparragus88/pokespa/static/js/2.feada520.chunk.js.map",
+    "index.html": "/sparragus88/pokespa/index.html",
+    "static/css/main.3ab16f3d.chunk.css.map": "/sparragus88/pokespa/static/css/main.3ab16f3d.chunk.css.map",
+    "static/js/2.feada520.chunk.js.LICENSE.txt": "/sparragus88/pokespa/static/js/2.feada520.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7c6ed78.js",
+    "static/js/2.feada520.chunk.js",
+    "static/css/main.3ab16f3d.chunk.css",
+    "static/js/main.2745d263.chunk.js"
+  ]
+}
